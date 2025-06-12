@@ -21,7 +21,7 @@ Desenvolvi um fluxo de conversa que inclui:
 
 ## 📷 Capturas de Tela  
 Aqui estão algumas imagens demonstrando a criação do fluxo de conversa:  
-![Exemplo do Fluxo](https://github.com/Rafaeldovale/copilotoII/blob/main/image.png)  
+![Exemplo do Fluxo][(hhttps://github.com/joapaullo)
 
 ## 📝 Observações e Melhorias  
 - O Copiloto pode ser aprimorado com **novos fluxos de resposta**.  
@@ -29,4 +29,4 @@ Aqui estão algumas imagens demonstrando a criação do fluxo de conversa:
 - Ajustar a linguagem para tornar o diálogo **mais natural e envolvente**.  
 
 ## 💾 Como acessar este projeto?  
-O repositório pode ser acessado em: [Link do Repositório](https://github.com/Rafaeldovale/copilotoII)  
+O repositório pode ser acessado em: https://github.com/joapaullo
